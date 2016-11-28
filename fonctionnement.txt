@@ -1,0 +1,29 @@
+****************************   PRINCIPES   ************************************
+
+source : https://en.wikipedia.org/wiki/Live_coding
+
+Representation and manipulation of time
+The specific afforances of time-based media and live interaction with code has led to a number of novel developments and uses in programming language design. Through mutual embedding of imperative and declarative subsystems, the programming language SuperCollider[12] permitted to build a library that allows incomplete and provisional specifications which can be rewritten at runtime.[13]
+
+The ChucK language introduced an approach to "strongly timed" programming in 2002, embedding precision timing into control flow through a concise syntax.
+
+"Temporal recursion" was a term initially coined in relation to the Impromptu programming environment. Technical elements within a programming environment continue to locate compressors and recursion solutions, but timing had been a major issue. While the general form of a temporal recursion, being any asynchronous function recursion through time, is available to any event driven system, Impromptu has placed a special emphasis on this particular design pattern,[14] making it the centre piece of the concurrency architecture on that platform. Temporal recursion had repeatedly been used in SuperCollider and has since been implemented in the Fluxus environment, Overtone and the Extempore programming language.
+
+Another functional approach to the representation of time is shown in the Tidal pattern DSL,[15] which represents patterns as combinators operating over functions of time, similar to techniques in functional reactive programming.[16]
+
+Multi-user programming and shared memory[edit]
+Multi-user programming has developed in the context of group music-making, through the long development of the Republic system developed and employed by members of the network band PowerBooks Unplugged.[17] Republic is built into the SuperCollider language, and allows participants to collaboratively write live code that is distributed across the network of computers. There are similar efforts in other languages, such as the distributed tuple space used in the Impromptu language.[18] Additionally Overtone, Impromptu and Extempore support multi-user sessions, in which any number of programmers can intervene across the network in a given runtime process.[19] The practice of writing code in group can be done in the same room through a local network or from remote places accessing a common server. Terms like laptop band, laptop orchestra or collaborative live coding are used to frame a networked live coding practice both in a local or remote way.
+
+
+
+***************************    SUPERCOLLIDER    *******************************
+
+
+source : http://supercollider.github.io/
+
+SuperCollider features three major components:
+
+scsynth, a real-time audio server, forms the core of the platform. It features 400+ unit generators ("UGens") for analysis, synthesis, and processing. Its granularity allows the fluid combination of many known and unknown audio techniques, moving between additive and subtractive synthesis, FM, granular synthesis, FFT, and physical modelling. You can write your own UGens in C++, and users have already contributed several hundred more to the sc3-plugins repository.
+sclang, an interpreted programming language. It is focused on sound, but not limited to any specific domain. sclang controls scsynth via Open Sound Control. You can use it for algorithmic composition and sequencing, finding new sound synthesis methods, connecting your app to external hardware including MIDI controllers, network music, writing GUIs and visual displays, or for your daily programming experiments. It has a stock of user-contributed extensions called Quarks.
+scide is an editor for sclang with an integrated help system.
+SuperCollider was developed by James McCartney and originally released in 1996. In 2002, he generously released it as free software under the GNU General Public License. It is now maintained and developed by an active and enthusiastic community.
