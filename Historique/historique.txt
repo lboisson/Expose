@@ -14,3 +14,5 @@ Live coding is inclusive and accessible to all. Many live coding environments ca
 ************************************************************************************************************
 ************************************************ REDACTIONS ************************************************
 ************************************************************************************************************
+
+Le live coding a été inventé à la fin des années 90 mais la première génération de son par ordinateur est arrivée en 1951.
