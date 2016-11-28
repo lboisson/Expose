@@ -1,3 +1,9 @@
 
 test
 liste documentaire sur le live coding
+
+https://gist.github.com/jwinder/e59be201082cca694df9
+
+http://toplap.org/
+
+http://algorave.com/
