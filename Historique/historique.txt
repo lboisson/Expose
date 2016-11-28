@@ -1,0 +1,16 @@
+************************************************************************************************************
+************************************************* INFOS ****************************************************
+************************************************************************************************************
+
+########################################## http://toplap.org/about/ ########################################
+About Toplap
+
+TOPLAP is an organisation founded in 2004, to explore and promote live coding.
+
+Live coding is a new direction in electronic music and video, and is getting somewhere interesting. Live coders expose and rewire the innards of software while it generates improvised music and/or visuals. All code manipulation is projected for your pleasure. Live coding works across musical genres, and has been seen in concert halls, late night jazz bars, as well as algoraves. There is also a strong movement of video-based live coders, writing code to make visuals, and many environments can do both sound and video, creating synaesthetic experiences.
+
+Live coding is inclusive and accessible to all. Many live coding environments can be downloaded and used for free, with documentation and examples to get you started and friendly on-line communities to help when you get problems. Popular live coding software includes ChucK,  Cyril, extempore, fluxus, impromptu, overtone and supercollider. Environments designed for fast exploration of musical pattern include ixi lang and tidal. Sonic Pi is designed for teaching both music and computer science in classrooms, as well as performing in algoraves. There are also impressively capable web-based live coding environments like gibber and livecodelab. Live patching is live coding with graph-based languages such as the venerable pure-data. It’s also possible to livecode with a gamepad, e.g. with the robot oriented Al-Jazari.
+
+************************************************************************************************************
+************************************************ REDACTIONS ************************************************
+************************************************************************************************************
